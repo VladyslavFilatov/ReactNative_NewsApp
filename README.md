@@ -1,10 +1,11 @@
 # ReactNative_NewsApp
 News application where you can add articles, description and photo
 
-![Simulator Screen Shot - iPhone 14 Pro - 2022-10-31 at 18 12 14](https://user-images.githubusercontent.com/107763268/199204470-348cb225-1413-459b-b052-0742890453ea.png)     ![Simulator Screen Shot - iPhone 14 Pro - 2022-10-31 at 18 12 32](https://user-images.githubusercontent.com/107763268/199204467-fd292c5c-575f-4a4d-81f5-1deac33c5463.png)
 
-![Simulator Screen Shot - iPhone 14 Pro - 2022-10-31 at 18 12 43](https://user-images.githubusercontent.com/107763268/199204465-58d191ae-dda1-428c-bb3c-9bf3fbc8ce80.png)     ![Simulator Screen Shot - iPhone 14 Pro - 2022-10-31 at 18 13 11](https://user-images.githubusercontent.com/107763268/199204464-180c0a4d-6f70-4b55-a084-f0ddce9caed1.png)
+<img width="322" alt="1" src="https://user-images.githubusercontent.com/107763268/199205998-ae858518-0bc6-484f-bfb2-04b906b173e4.png">      <img width="322" alt="2" src="https://user-images.githubusercontent.com/107763268/199206013-1df05d9a-940c-4786-8e51-6113913abb8f.png">
 
-![Simulator Screen Shot - iPhone 14 Pro - 2022-10-31 at 18 13 15](https://user-images.githubusercontent.com/107763268/199204460-7a503b90-c73c-4793-95ed-921e83bd97d1.png)     ![Simulator Screen Shot - iPhone 14 Pro - 2022-10-31 at 18 13 18](https://user-images.githubusercontent.com/107763268/199204456-d7776ef8-f262-4b8b-b824-41877ad9e286.png)
+<img width="322" alt="3" src="https://user-images.githubusercontent.com/107763268/199206026-26878bfd-b22b-4998-a89f-c074b1f5bef2.png">      <img width="322" alt="4" src="https://user-images.githubusercontent.com/107763268/199206035-b17f294b-fb3d-4b1a-99a9-383e5c341e94.png">
 
-![Simulator Screen Shot - iPhone 14 Pro - 2022-10-31 at 18 15 06](https://user-images.githubusercontent.com/107763268/199204452-0ff703d3-d780-4661-bbca-05902e709ca2.png)     ![Simulator Screen Shot - iPhone 14 Pro - 2022-10-31 at 18 15 18](https://user-images.githubusercontent.com/107763268/199204437-359448d7-fd7e-4fb1-8138-b32056651506.png)
+<img width="322" alt="5" src="https://user-images.githubusercontent.com/107763268/199206046-3b5e81f0-b118-4647-a950-657bd0c86420.png">      <img width="322" alt="6" src="https://user-images.githubusercontent.com/107763268/199206055-d8126120-bd41-4
+
+<img width="322" alt="7" src="https://user-images.githubusercontent.com/107763268/199206063-2bb0c1e2-65ce-48a3-a0e0-e7a783cf9a96.png">      <img width="322" alt="8" src="https://user-images.githubusercontent.com/107763268/199206073-b0b260c2-51d9-4904-98c6-6cb74e88fbd8.png">
